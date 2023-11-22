@@ -7,15 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m interested in **Web Development...**
+- 🔭 I have studied **B.E(CSE) 2023 Passed Out**
 
 - 🌱 I’m currently learning **MERN Stack**
+
+- 👯 I’m interested in **Web Development**
 
 - 📫 How to reach me **rajkumaranbu192@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajkumar a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumar a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/rajkumar-a-a7a62128b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajkumar-a-a7a62128b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
