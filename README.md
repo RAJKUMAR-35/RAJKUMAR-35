@@ -4,7 +4,7 @@
 
 <div align="center" >
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35" />
-  <!--<img src="https://streak-stats.demolab.com?user=Rajkumar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />-->
+  <img src="https://streak-stats.demolab.com?user=Rajkumar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumar-35" alt="rajkumar-35" /></a> </p>-->
