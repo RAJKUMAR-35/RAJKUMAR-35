@@ -11,7 +11,7 @@ Hello! I'm Rajkumar, an engineering graduate with a passion for crafting impactf
 - 🌐 [Explore My Portfolio](https://rajkumar-portfolio-35.vercel.app/)
 - 🔗 [Explore My Linked in](https://www.linkedin.com/in/rajkumar-mern-developer/)
 
-## Languages Used
+## Used Languages
 
 <div align="left" >
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35"/>
