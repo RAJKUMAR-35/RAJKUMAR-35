@@ -17,16 +17,11 @@ Hello! I'm Rajkumar, an engineering graduate with a passion for crafting impactf
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35"/>
 </div>
 
-## Projects
+## Recent Project
 
-### Recent Projects
-
-- **[Project Name]**: Brief description of the project, technologies used, and your role in it.
-- **[Project Name]**: Brief description of the project, technologies used, and your role in it.
-
-## Seeking Opportunities
-
-I'm currently seeking opportunities to kick-start my career as a MERN stack developer. If you're looking for a passionate and motivated developer to join your team or collaborate on exciting projects, let's connect!
+### Task Management Application
+- A web-based task management application built with MERN stack, allowing users to create, organize, and track tasks efficiently
+- [View Project](https://www.linkedin.com/in/rajkumar-mern-developer/)
 
 ## Contact Me
 
@@ -41,6 +36,6 @@ Feel free to reach out to me via email or connect with me on LinkedIn. I'm looki
 
 ## Let's Connect!
 
-Whether you have a project idea, want to collaborate, or just want to chat about the latest tech trends, feel free to reach out to me. I'm always excited to connect with fellow developers and tech enthusiasts!
+Reach out and let's build something amazing together!
 
 
