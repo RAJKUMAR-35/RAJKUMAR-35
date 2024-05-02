@@ -8,10 +8,9 @@
 </div>
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumar-35" alt="rajkumar-35" /></a> </p>-->
-
-<div align ="center">
+<!--<div align ="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkumar-35&show_icons=true&locale=en" alt="rajkumar-35" /></p>
-</div>
+</div>-->
 
 <div style="display: inline;">
   <div style="display: inline;">
