@@ -17,11 +17,6 @@ Hello! I'm Rajkumar, an engineering graduate with a passion for crafting impactf
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35"/>
 </div>
 
-## Recent Project
-
-### Task Management Application
-- A web-based task management application built with MERN stack, allowing users to create, organize, and track tasks efficiently
-- [View Project](https://www.linkedin.com/in/rajkumar-mern-developer/)
 
 ## Contact Me
 
