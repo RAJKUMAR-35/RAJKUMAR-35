@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajkumar-35&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar-35" /> </p>
 
 <div align="center" >
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35"/>
   <img src="https://streak-stats.demolab.com?user=Rajkumar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
