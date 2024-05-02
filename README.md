@@ -11,24 +11,11 @@ Hello! I'm Rajkumar, an engineering graduate with a passion for crafting impactf
 - 🌐 [Explore My Portfolio](https://rajkumar-portfolio-35.vercel.app/)
 - 🔗 [Explore My Linked in](https://www.linkedin.com/in/rajkumar-mern-developer/)
 
-## Skills
+## Languages Used
 
-### Frontend
-
-- HTML, CSS, Bootstrap, JavaScript, React, Redux
-
-### Backend
-
-- Node.js, Express.js
-
-### Databases
-
-- MongoDB, Mongoose, MySQL
-
-### Tools
-
-- Postman, Git, VS Code.
-
+<div align="left" >
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35"/>
+</div>
 
 ## Projects
 
@@ -45,9 +32,15 @@ I'm currently seeking opportunities to kick-start my career as a MERN stack deve
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm looking forward to discussing how we can work together!
 
-- 📧 [Email](mailto:rajkumaranbu192@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rajkumar-mern-developer/)
+<a href="https://www.linkedin.com/in/rajkumar-mern-developer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>
+<a href="mailto:rajkumaranbu192@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+</a>
 
 ## Let's Connect!
 
 Whether you have a project idea, want to collaborate, or just want to chat about the latest tech trends, feel free to reach out to me. I'm always excited to connect with fellow developers and tech enthusiasts!
+
+
