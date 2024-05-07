@@ -4,7 +4,6 @@ Hello! I'm Rajkumar, an engineering graduate with a passion for crafting impactf
 
 
 ## About Me
-
 - 🌱 Recent MERN Stack Developer Graduate
 - 💼 Passionate about crafting scalable web applications
 - 🚀 Ready to contribute to exciting projects
@@ -12,6 +11,7 @@ Hello! I'm Rajkumar, an engineering graduate with a passion for crafting impactf
 - 🔗 [Explore My Linked in](https://www.linkedin.com/in/rajkumar-mern-developer/)
 
 ## Used Languages
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar-35&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar-35" /> </p>
 
 <div align="left" >
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35"/>
