@@ -1,6 +1,8 @@
 # Welcome to My Github Profile....👋
 
-Hello! I'm Rajkumar, An engineering graduate passionate about crafting innovative and impactful web applications. With comprehensive knowledge in MERN stack development, I aim to create dynamic digital experiences.
+Hello! I'm Rajkumar, An engineering graduate passionate about crafting innovative and impactful web applications. With comprehensive knowledge in MERN stack development, I aim to create dynamic digital experiences.<br>
+![Image Description](image_url)
+
 
 ## About Me
 - 🌱 Recent MERN Stack Developer Graduate
