@@ -1,7 +1,8 @@
 # Welcome to My Github Profile....👋
+![LinkedIn_Poster](https://github.com/RAJKUMAR-35/RAJKUMAR-35/assets/149288457/fc11e0fa-b7cb-4d35-829f-d73cbe778c5e)
 
 Hello! I'm Rajkumar, An engineering graduate passionate about crafting innovative and impactful web applications. With comprehensive knowledge in MERN stack development, I aim to create dynamic digital experiences.<br>
-![Image Description](image_url)
+
 
 
 ## About Me
