@@ -1,6 +1,7 @@
 # Welcome to My Github Profile....👋
 ![White Minimalist Profile LinkedIn Banner](https://github.com/RAJKUMAR-35/RAJKUMAR-35/assets/149288457/d9eaf89a-4c66-4d8c-bf47-e05f67260fa6)
 
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar-35&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar-35" /> </p>
 
 Hello! I'm Rajkumar, An engineering graduate passionate about crafting innovative and impactful web applications. With comprehensive knowledge in MERN stack development, I aim to create dynamic digital experiences.<br>
 
@@ -24,7 +25,6 @@ https://www.linkedin.com/in/rajkumar-mern-developer/
 
 
 ## Used Languages
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar-35&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar-35" /> </p>
 
 <div align="left" >
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35"/>
