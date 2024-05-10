@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile....👋
+# Welcome to My Github Profile....👋
 
 Hello! I'm Rajkumar, an engineering graduate with a passion for crafting impactful web applications. I have recently completed a MERN stack development course and have gained hands-on experience through various projects. I'm eager to apply my newfound skills and knowledge to real-world projects.
 
