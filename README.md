@@ -32,6 +32,5 @@ Hello..  I'm Rajkumar, a recent engineering graduate with a passion for crafting
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35"/>
 </div>
 
-## Let's Connect!
-### Connect with Me
-Feel free to reach out to me via email or LinkedIn to discuss opportunities for collaboration and innovation.
+##
+
