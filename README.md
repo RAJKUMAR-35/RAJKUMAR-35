@@ -8,29 +8,6 @@ Hello! I'm Rajkumar, a recent engineering graduate with a passion for crafting i
 - 🌱 **Recent Engineering Graduate** with a strong foundation in **Development**
 - 💼 **Passionate Developer** dedicated to building scalable and robust web applications
 - 🚀 Eager to contribute to innovative and impactful projects
-<!--
-- 🌐 Explore My Portfolio.
-
-```bash
-https://rajkumar-portfolio-35.vercel.app/
-```
--->
-- 🔗 Explore My LinkedIn.
-
-```bash
-https://www.linkedin.com/in/rajkumar-mern-developer/
-```
-
-
-## Used Languages
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar-35&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar-35" /> </p>
-
-<div align="left" >
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35"/>
-</div>
-
-## Let's Connect!
-Feel free to connect with me and reach out. Let's collaborate and build something amazing together.
 <div>
   <a href="https://www.linkedin.com/in/rajkumar-mern-developer/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -45,3 +22,16 @@ Feel free to connect with me and reach out. Let's collaborate and build somethin
 
 ```bash
 rajkumaranbu192@gmail.com
+```
+
+
+
+## Used Languages
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar-35&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar-35" /> </p>
+
+<div align="left" >
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35"/>
+</div>
+
+## Let's Connect!
+Feel free to connect with me and reach out. Let's collaborate and build something amazing together.
