@@ -1,3 +1,5 @@
+
+
 # Welcome to my Github profile... 👋
 Hello..  I'm Rajkumar, a recent engineering graduate with a passion for crafting innovative and impactful web applications. My focus is on developing dynamic digital experiences that leave a lasting mark.
 
@@ -5,14 +7,12 @@ Hello..  I'm Rajkumar, a recent engineering graduate with a passion for crafting
 - 🌱 **Recent Engineering Graduate** with a strong foundation in **Development**.
 - 💼 **Passionate Developer** dedicated to building scalable and robust web applications.
 - 🚀 Eager to contribute to innovative and impactful projects.
-- 🔗Reach out to me via email..
-  ```bash
+  
+🔗Reach out to me via email..
+   ```bash
   rajkumaranbu192@gmail.com
   ```
-
-
-
-- 🔗 Explore More...
+🔗 Explore More...
 
   
   <div style="padding-left: 200px;">
@@ -35,5 +35,3 @@ Hello..  I'm Rajkumar, a recent engineering graduate with a passion for crafting
 ## Let's Connect!
 ### Connect with Me
 Feel free to reach out to me via email or LinkedIn to discuss opportunities for collaboration and innovation.
-
-
