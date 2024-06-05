@@ -1,4 +1,3 @@
-
 # Welcome to my Github profile... 👋
 
 Hello! I'm Rajkumar, a recent engineering graduate with a passion for crafting innovative and impactful web applications. My focus is on developing dynamic digital experiences that leave a lasting mark.
@@ -30,22 +29,19 @@ https://www.linkedin.com/in/rajkumar-mern-developer/
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-35&show_icons=true&locale=en&layout=compact" alt="rajkumar-35"/>
 </div>
 
-
-## Contact Me
-
-Feel free to reach out to me via email or connect with me on LinkedIn. I'm looking forward to discussing how we can work together!
-
-<a href="https://www.linkedin.com/in/rajkumar-mern-developer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</a>
-<a href="mailto:rajkumaranbu192@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
-</a>
+## Let's Connect!
+Feel free to connect with me and reach out. Let's collaborate and build something amazing together.
+<div>
+  <a href="https://www.linkedin.com/in/rajkumar-mern-developer/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:rajkumaranbu192@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+  </a>
+  <a href="https://your-portfolio-url.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=90EE90&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
+</div>
 
 ```bash
 rajkumaranbu192@gmail.com
-```
-
-## Let's Connect!
-Reach out and let's build something amazing together.
-
