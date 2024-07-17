@@ -1,6 +1,6 @@
 # Welcome to my Github profile... 👋
 
-![Profile Image](image_1.png)
+<!-- ![Profile Image](image_1.png) -->
 
 Hello..  I am Rajkumar, A recent engineering graduate with a passion for crafting innovative and impactful web applications. My focus is on developing dynamic digital experiences that leave a lasting mark.
 
